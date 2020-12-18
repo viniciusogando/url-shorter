@@ -1,0 +1,12 @@
+{
+  "name": "url-app",
+  "displayName": "url-app",
+  "expo": {
+    "name": "url-app",
+    "slug": "url-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
